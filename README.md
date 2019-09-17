@@ -1,2 +1,3 @@
-# brand-assets
-Pixelsum Brand &amp; Media Assets
+# Pixelsum Brand Assets
+
+Project brand assets and guidelines for Pixelsum, LLC
