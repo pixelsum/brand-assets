@@ -5,8 +5,8 @@
 Company brand assets and guidelines for Pixelsum, LLC
 
 ### Company Logo  
-  
-<img src="https://cdn.pixelsum.com/file/w_200/BrandAssets/Logos/pixelsum-logo-mt.png" width="360">
+
+![](https://cdn.pixelsum.com/file/BrandAssets/Logos/pixelsum-logo-mt.png)
 
 ### Company Icon  
   
