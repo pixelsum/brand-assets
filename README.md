@@ -1,5 +1,5 @@
-![](https://cdn.pixelsum.com/file/Illustrations/Postcards/pixelsum-email-logo.png)
+![](https://cdn.pixelsum.com/file/BrandAssets/Logos/pixelsum-logo-mt.png)
 
 # Pixelsum Brand Assets
 
-Project brand assets and guidelines for Pixelsum, LLC
+Company brand assets and guidelines for Pixelsum, LLC
