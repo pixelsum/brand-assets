@@ -14,13 +14,11 @@ Company brand assets and guidelines for Pixelsum, LLC
 
 ### Brand Font  
 
-HK Grotesk™ is an Open Source sans serif typeface inspired by the classic grotesques. Geometry, metrics, punctuations, and OpenType features have been updated to support a wide range of projects such as Environmental Signage, text face for books and magazines, Interface, Websites, and Mobile Applications.
-
-<img src="https://cdn.shopify.com/s/files/1/0078/2342/5599/products/HKGrotesk2453Square_1296x.jpg?v=1590411164">
+[HK Grotesk™](https://hanken.co/products/hk-grotesk?variant=14506990633023) is an Open Source sans serif typeface inspired by the classic grotesques. Geometry, metrics, punctuations, and OpenType features have been updated to support a wide range of projects such as Environmental Signage, text face for books and magazines, Interface, Websites, and Mobile Applications.
   
 ### Color Palette:  
-#30365e  
-#fc7647  
-#4ec594  
-#fefefe  
-#515c9f
+`#30365e`  
+`#fc7647`  
+`#4ec594`  
+`#fefefe`  
+`#515c9f`  
